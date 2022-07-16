@@ -1,9 +1,9 @@
 [[asan_SS]]
 arch = "x86_64"
-git-tree-sha1 = "085d5e947dd1cf49794ec0f6bcdf72a86c342c0f"
+git-tree-sha1 = "220182106a187d1e1c29efe185d6b00ef09267cb"
 libc = "glibc"
 os = "linux"
 
     [[asan_SS.download]]
-    sha256 = "bd6ee6029a7788da8cbac65a1a0725be73b69316e2c68851945d3ceb5836beaa"
+    sha256 = "a27664ba9b00fa38348c26e2b0581fbde28c460c8a6a681ca8f686ed13061365"
     url = "https://github.com/Wimmerer/asan_SS_jll.jl/releases/download/asan_SS-v5.10.1+0/asan_SS.v5.10.1.x86_64-linux-gnu.tar.gz"
